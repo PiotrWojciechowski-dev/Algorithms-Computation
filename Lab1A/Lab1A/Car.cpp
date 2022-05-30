@@ -55,3 +55,4 @@ void Truck::display() const
 	cout << "\nLoad Capacity: " << loadCapacity << endl;
 
 }
+
